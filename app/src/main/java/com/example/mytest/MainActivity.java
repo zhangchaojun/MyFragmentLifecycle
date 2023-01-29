@@ -9,7 +9,9 @@ import androidx.fragment.app.FragmentTransaction;
 import com.cj.library.base.BaseActivity;
 import com.example.myfragmentlifecycle.R;
 
-
+/**
+ * androidx中的fragment
+ */
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     private static final String TAG = "cj";
